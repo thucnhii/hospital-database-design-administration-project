@@ -5,7 +5,7 @@ Starting with the requirements outlined in the hospital database narrative, I cr
 ![Image](hospital.jpeg)
 
 # Database Design and Implementation
-In this stage, I identified the entities for data tracking, constructed the relationship diagram using Visio, and established the database to store data on SQL Server.
+In this stage, I identified the entities for data tracking, constructed the relationship diagram using Visio, and established the database to store data on SQL Server. </br>
 
 [Narrative](https://github.com/thucnhii/hospital-database-project/blob/c5800d1dafb529e6eb9593a07a57faf3bb38b390/HOSPITAL%20Administrator%20-%20Narrative.pdf) </br>
 [Entity Relationship Diagram](https://github.com/thucnhii/hospital-database-project/blob/60a30fe3c44add5528dc9661d927023c3d7a65c8/Hospital%20ERD%20%26%20EERD.pdf) </br>
@@ -14,7 +14,7 @@ In this stage, I identified the entities for data tracking, constructed the rela
 Data Set: This is a fabricated collection of data that I created for the purpose of building the demo.
 
 # Data Extraction and Querying
-I used SQL Server operators to develop triggers for data protection and crafted queries for data extraction and transformation, ultimately producing reports in a humanreadable format.
+I used SQL Server operators to develop triggers for data protection and crafted queries for data extraction and transformation, ultimately producing reports in a humanreadable format. </br>
 
 [Create Triggers](https://github.com/thucnhii/hospital-database-project/blob/be1cf32d9dd1ce5e55c34cb11a3a13913300d90f/Trigger.sql) </br>
 [Query for Reporting](https://github.com/thucnhii/hospital-database-project/blob/be1cf32d9dd1ce5e55c34cb11a3a13913300d90f/Report.sql)
