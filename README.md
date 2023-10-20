@@ -15,5 +15,6 @@ Data Set: This is a fabricated collection of data that I created for the purpose
 
 # Data Extraction and Querying
 I used SQL Server operators to develop triggers for data protection and crafted queries for data extraction and transformation, ultimately producing reports in a humanreadable format.
+
 [Create Triggers](https://github.com/thucnhii/hospital-database-project/blob/be1cf32d9dd1ce5e55c34cb11a3a13913300d90f/Trigger.sql) </br>
 [Query for Reporting](https://github.com/thucnhii/hospital-database-project/blob/be1cf32d9dd1ce5e55c34cb11a3a13913300d90f/Report.sql)
