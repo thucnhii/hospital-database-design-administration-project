@@ -8,3 +8,6 @@ From the narrative of requirement for a database for a hospital, I built Entity 
 
 [Narrative](https://github.com/thucnhii/hospital-database-design-administration-project/blob/main/Narrative) </br>
 [Entity Relation Diagram](https://github.com/thucnhii/hospital-database-project/blob/60a30fe3c44add5528dc9661d927023c3d7a65c8/Hospital%20ERD%20%26%20EERD.pdf)
+Data set
+
+# Data Extraction and Querying
