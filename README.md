@@ -13,3 +13,5 @@ From the narrative of requirement for a database for a hospital, I built Entity 
 Data Set: This is a fabricated collection of data that I created for the purpose of building the demo.
 
 # Data Extraction and Querying
+[Create Triggers](https://github.com/thucnhii/hospital-database-project/blob/be1cf32d9dd1ce5e55c34cb11a3a13913300d90f/Trigger.sql)
+[Query for Reporting](https://github.com/thucnhii/hospital-database-project/blob/be1cf32d9dd1ce5e55c34cb11a3a13913300d90f/Report.sql)
