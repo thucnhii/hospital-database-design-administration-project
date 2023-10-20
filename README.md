@@ -1,6 +1,6 @@
 # Hospital Database Design and Administration Project
 Creating a hospital database project from scratch: designed an ERD, crafted a Data Dictionary, built the SQL server database, and authored queries for efficient data extraction and transformation.
-
+![Image](hospital.jpeg)
 # Narrative
 The hospital administrator wants to create a database to track nurse assignments to their wards and nurse interactions with their patients, patient admissions by their doctors and treatments administered by doctors to their patients, bed assignments for each patient and items charged to patients during their stay.  Administrator wants to record each nurse’s name and address, phone and alternate phone, email and the medical specialties he or she is certified.  Some nurses supervise one or more other nurses.  No nurse is supervised by more than one nurse, and some nurses are unsupervised.
 Each ward at the hospital has a designated number, descriptive name, physical location and phone number. Each ward has at least one nurse assigned to it.  A nurse is assigned to at least one ward and rotates assignments among other wards.  The assignment is tracked by the specific date and the hours worked in the assigned ward by each nurse on that date.
