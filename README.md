@@ -7,4 +7,4 @@ From the narrative of requirement for a database for a hospital, I built Entity 
 # Database Design and Implementation
 
 [Narrative](https://github.com/thucnhii/hospital-database-design-administration-project/blob/main/Narrative)
-[Entity Relation Diagram](Hospital ERD & EERD.pdf)
+![Entity Relation Diagram](Hospital ERD & EERD.pdf)
