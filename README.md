@@ -9,12 +9,12 @@ I do the project with two main goals: </br>
 * Based on the requirements from the hospital, build a database that effectively and efficiently record all the required information and enable to generate reports.
 * Extract and transform data to create reports.
 ## Database Design and Implementation
-In this stage, I identified the entities for data tracking, constructed the relationship diagram using Visio, and established the database to store data on SQL Server. </br>
+Firstly, I read the [requirements](https://github.com/thucnhii/hospital-database-project/blob/c5800d1dafb529e6eb9593a07a57faf3bb38b390/HOSPITAL%20Administrator%20-%20Narrative.pdf) and build the Entity Relation Diagram to visualize the relationships among all entities that enable me to create tables and elements to comprehensively tracking the hospital. </br>
+*This is the Entity Relation Diagram* </br>
+![image](img/EERD.png) </br>
 
-[Narrative](https://github.com/thucnhii/hospital-database-project/blob/c5800d1dafb529e6eb9593a07a57faf3bb38b390/HOSPITAL%20Administrator%20-%20Narrative.pdf) </br>
-![image](img/Hospital_EERD.png) </br>
-[Relation Schema](https://github.com/thucnhii/hospital-database-project/blob/d0e43fb73de73a422fbb18cbf068377e74640e4a/Hospital%20Relation%20Schema.pdf) </br>
-[Data Dictionary](https://github.com/thucnhii/hospital-database-project/blob/a7ad7ac56c8b23f28ac28e84b3ae289cd205515e/Data%20Dictionary%20-%20Hospital%20-%20Wallace2.pdf) </br>
+Consequently, I built the [Relation Schema](https://github.com/thucnhii/hospital-database-project/blob/d0e43fb73de73a422fbb18cbf068377e74640e4a/Hospital%20Relation%20Schema.pdf) and 
+[Data Dictionary](https://github.com/thucnhii/hospital-database-project/blob/a7ad7ac56c8b23f28ac28e84b3ae289cd205515e/Data%20Dictionary%20-%20Hospital%20-%20Wallace2.pdf) to define the structure and organization of the relational database in the tabular form and give more detailed information about the data within the database. </br>
 Data Set: This is a fabricated collection of data that I created for the purpose of building the demo.
 
 # Data Extraction and Querying
