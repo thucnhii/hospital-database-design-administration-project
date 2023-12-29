@@ -1,14 +1,18 @@
 # Hospital Database Design and Administration Project
-
-Starting with the requirements outlined in the hospital database narrative, I created an Entity Relationship Diagram and set up a database simulation using SQL Server to represent a hospital environment. Additionally, I used advanced SQL operators to extract necessary data and facilitate the generation of reports.
-
 ![Image](hospital.jpeg)
 
-# Database Design and Implementation
+## Introduction
+Each day, a myriad of activities and interactions occurs among patients, nurses, and doctors within a hospital. Managing and organizing this extensive array of functions poses a big challenge for manually hospital administrators. To streamline operations, a database should established to track nurse assignments, patients' admissions facilitated by doctors, bed assignments, and more. This project is aiming to design and administering a database utilizing SQL Server Management Studio. </br>
+
+## Objectives
+I do the project with two main goals: </br>
+* Based on the requirements from the hospital, build a database that effectively and efficiently record all the required information and enable to generate reports.
+* Extract and transform data to create reports.
+## Database Design and Implementation
 In this stage, I identified the entities for data tracking, constructed the relationship diagram using Visio, and established the database to store data on SQL Server. </br>
 
 [Narrative](https://github.com/thucnhii/hospital-database-project/blob/c5800d1dafb529e6eb9593a07a57faf3bb38b390/HOSPITAL%20Administrator%20-%20Narrative.pdf) </br>
-[Entity Relationship Diagram](https://github.com/thucnhii/hospital-database-project/blob/60a30fe3c44add5528dc9661d927023c3d7a65c8/Hospital%20ERD%20%26%20EERD.pdf) </br>
+![image](img/Hospital EERD.png) </br>
 [Relation Schema](https://github.com/thucnhii/hospital-database-project/blob/d0e43fb73de73a422fbb18cbf068377e74640e4a/Hospital%20Relation%20Schema.pdf) </br>
 [Data Dictionary](https://github.com/thucnhii/hospital-database-project/blob/a7ad7ac56c8b23f28ac28e84b3ae289cd205515e/Data%20Dictionary%20-%20Hospital%20-%20Wallace2.pdf) </br>
 Data Set: This is a fabricated collection of data that I created for the purpose of building the demo.
