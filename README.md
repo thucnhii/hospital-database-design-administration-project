@@ -17,7 +17,18 @@ Consequently, I built the [Relation Schema](https://github.com/thucnhii/hospital
 [Data Dictionary](https://github.com/thucnhii/hospital-database-project/blob/a7ad7ac56c8b23f28ac28e84b3ae289cd205515e/Data%20Dictionary%20-%20Hospital%20-%20Wallace2.pdf) to define the structure and organization of the relational database in the tabular form and give more detailed information about the data within the database. </br>
 
 ## Data Extraction and Querying
-After building the database in SQL, I wrote [insert queries] with the purpose of testing the table relations and building data for reporting. </br>
+After building the database in SQL, I wrote [insert queries](InsertQueries.sql) with the purpose of testing the table relations and building data for reporting. </p>
+*The data is fabricated because its purpose is only for testing the relational database.* </p>
+I also extracted and transformed data to generate the [report](https://github.com/thucnhii/hospital-database-project/blob/be1cf32d9dd1ce5e55c34cb11a3a13913300d90f/Report.sql) for the hospital, with these questions: </br>
+* How many physicians' total admits for the specific year?
+* What is the average age of patients addmitted by a Physician?
+* Item bills of patients, sorted by date.
+* What are treatments that a patient treated by a physician?
+* What are events between nurses and patients?
+* What beds that are available? or filled by which patients?
+* Who are nurses not assigned to patients?
+* Provide a template with nurse and ward for nurse assignment.
 
+## Other Advanced Operations
 [Create Triggers](https://github.com/thucnhii/hospital-database-project/blob/be1cf32d9dd1ce5e55c34cb11a3a13913300d90f/Trigger.sql) </br>
-[Query for Reporting](https://github.com/thucnhii/hospital-database-project/blob/be1cf32d9dd1ce5e55c34cb11a3a13913300d90f/Report.sql)
+Create SPROC
